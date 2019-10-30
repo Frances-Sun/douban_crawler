@@ -1,4 +1,4 @@
-# Douban Clawer
+# Douban Crawler
 
 
 ## What is it?
@@ -22,7 +22,3 @@ It is a very simple clawer in order to back-up one's DouBan account considering 
 
 
 
-## About
-
-* 有想法做一个独立的豆瓣书影音推荐系统，有兴趣一起做的可以联系我。
-* 这个小小的项目结束~~
